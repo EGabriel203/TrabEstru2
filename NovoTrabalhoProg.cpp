@@ -1,3 +1,7 @@
+//Nome da disciplina: Programação Estruturada
+//Código da turma: 931-74929
+//Aluno: Emerson Gabriel Guedes Garcia 2022101329
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -118,7 +122,7 @@ int menu()
 		  	printf("O elemento %i estah na posicao %i\n",elem,posicao);
 		  }
 		  else{
-		  	printf("O elemento %i n�o estah na lista \n",elem);
+		  	printf("O elemento %i não estah na lista \n",elem);
 		  }
  		  printf("\nPressione qualquer tecla para continuar");		  
 		  system("pause");
